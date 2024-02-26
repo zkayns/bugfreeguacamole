@@ -18,12 +18,12 @@
       <div id="gameContainer" style="width: 100%; height: 100%; margin: auto;"></div>
          </div>
 <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
- <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase-app.js"></script>
+ <script src="https://raw.githubusercontent.com/zkayns/bugfreeguacamole/main/firebase-app.js"></script>
  <!-- Add Firebase products that you want to use -->
  <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase-auth.js"></script>
  <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase-firestore.js"></script>
  <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase-remote-config.js"></script>
- <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase.js"></script>
+ <script src="https://raw.githubusercontent.com/zkayns/bugfreeguacamole/main/1v1firebase.js"></script>
  <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/login.js"></script>
  <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/firebase-config.js"></script>
  <script>
