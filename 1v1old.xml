@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/style.css">
-    <script src="https://cdn.jsdelivr.net/gh/greggman/webgl-helpers@06e3d45373af0f3ce8f58b472b61835d9678d23a/examples/unity/TemplateData/UnityProgress.js"></script>
+    <script src="https://zkayns.github.io/bugfreeguacamole/UnityProgress.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/rmsunblck/yexex@67752124403617aeed6cdd4588c41f19884c2585/lol/UnityLoader.js"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "https://justbuild.nyc3.cdn.digitaloceanspaces.com/CI/1v1/Prod/162/WebGL.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
