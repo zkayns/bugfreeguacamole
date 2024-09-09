@@ -1,0 +1,15 @@
+{
+  "short_name": "Slope",
+  "name": "Slope",
+  "icons": [
+    {
+      "src": "https://zkayns.github.io/zgames/images/slope.jpg",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://zkayns.github.io/bugfreeguacamole/slope/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
