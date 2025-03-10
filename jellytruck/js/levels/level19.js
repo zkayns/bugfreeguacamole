@@ -1,4 +1,4 @@
-﻿window.JellyTruck.state.level19 = {
+window.JellyTruck.state.level19 = {
     preload: function () {
         this.game.world.removeAll();
         //background
