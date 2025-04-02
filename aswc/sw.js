@@ -1,0 +1,1 @@
+console.log("Holy crap, Lois! No service worker!")
